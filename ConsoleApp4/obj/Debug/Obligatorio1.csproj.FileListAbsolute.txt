@@ -1,0 +1,7 @@
+C:\Users\juanm\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Programación 2\Obligatorio1\Obligatorio1\ConsoleApp4\obj\Debug\Obligatorio1.csprojAssemblyReference.cache
+C:\Users\juanm\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Programación 2\Obligatorio1\Obligatorio1\ConsoleApp4\obj\Debug\Obligatorio1.csproj.CoreCompileInputs.cache
+C:\Users\juanm\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Programación 2\Obligatorio1\Obligatorio1\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\juanm\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Programación 2\Obligatorio1\Obligatorio1\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\juanm\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Programación 2\Obligatorio1\Obligatorio1\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\juanm\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Programación 2\Obligatorio1\Obligatorio1\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\juanm\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Programación 2\Obligatorio1\Obligatorio1\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
